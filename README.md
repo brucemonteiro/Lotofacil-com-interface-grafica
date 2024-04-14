@@ -30,6 +30,25 @@ Execute o programa.
 
 Siga as instruções para fazer suas apostas na LOTOFÁCIL.
 
-Este projeto foi desenvolvido utilizando a versão do JDK 21. Bibliotecas usadas: Scanner,Random. Métodos usados: System.in.read(),Character.toUpperCase().
+Este projeto foi desenvolvido utilizando a versão do JDK 21. Bibliotecas usadas: Scanner,Random. Métodos usados: System.in.read(),Character.toUpperCase(),java.awt.Color,java.awt.Component,java.awt.FlowLayout,java.awt.event.ActionEvent,java.awt.event.ActionListener,java.util.Random,javax.swing.JButton,javax.swing.JFrame,javax.swing.JOptionPane,javax.swing.JPanel.
+
+
 
 SUPORTE UTILIZADO NO TRABALHO: Chatgpt e Github/lucas-novaesm
+
+# Rodando o projeto
+
+![Imagem do WhatsApp de 2024-04-14 à(s) 14 35 09_fa1859c3](https://github.com/brucemonteiro/Lotofacil-com-interface-gr-fica/assets/163943761/bbdd0b8f-5d46-4e8c-b484-babab142264a)
+![Imagem do WhatsApp de 2024-04-14 à(s) 14 35 09_9b1bb56e](https://github.com/brucemonteiro/Lotofacil-com-interface-gr-fica/assets/163943761/dfcff7bf-94ee-4b38-bd60-f704bbc85b53)
+![Imagem do WhatsApp de 2024-04-14 à(s) 14 35 09_53874699](https://github.com/brucemonteiro/Lotofacil-com-interface-gr-fica/assets/163943761/adc2d2ae-e763-469f-b6cc-73d1f88804f5)
+![Imagem do WhatsApp de 2024-04-14 à(s) 14 35 10_de4eaff2](https://github.com/brucemonteiro/Lotofacil-com-interface-gr-fica/assets/163943761/66b3a4d4-b02a-4dee-a1fa-a40df187ef5e)
+![Imagem do WhatsApp de 2024-04-14 à(s) 14 35 10_e923f246](https://github.com/brucemonteiro/Lotofacil-com-interface-gr-fica/assets/163943761/7eaa57e3-8d16-440e-8f9d-045386cd150d)
+![Imagem do WhatsApp de 2024-04-14 à(s) 14 35 10_ccbf14a2](https://github.com/brucemonteiro/Lotofacil-com-interface-gr-fica/assets/163943761/bb8eb92d-2d72-4b4d-b9d0-c3a805f31aef)
+![Imagem do WhatsApp de 2024-04-14 à(s) 14 35 10_1c9ade42](https://github.com/brucemonteiro/Lotofacil-com-interface-gr-fica/assets/163943761/53f5eff4-82f8-4abf-8e5d-6b975bef691b)
+
+
+
+
+
+
+
